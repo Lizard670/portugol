@@ -1,0 +1,3 @@
+Tendo problema com o calculo da normais das faces pra poder não renderizar as faces que o jogador não consegue ver
+
+Sei que não coisas logo mais na frente vão ser MUITO dificeis de implementar no portugol e já to meio cansada, talvez no futuro volte no projeto
